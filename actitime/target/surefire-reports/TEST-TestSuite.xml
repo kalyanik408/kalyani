@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="0.864" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="1.522" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="14.0.1+7"/>
@@ -24,7 +24,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 8.1"/>
-    <property name="classworlds.conf" value="E:\kalyani files\kcsa3\automation\maven\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf16871093724605983274.tmp"/>
+    <property name="classworlds.conf" value="E:\kalyani files\kcsa3\automation\maven\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf11051926153600998727.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk-14.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk-14.0.1/bin/server;C:/Program Files/Java/jdk-14.0.1/bin;C:\Program Files\Java\jdk-14.0.1\bin;C:\apache-maven-3.6.3\bin;C:\Program Files\Microsoft VS Code\bin;C:\Users\hp-pc\AppData\Roaming\npm;C:\Users\hp-pc\Desktop;;."/>
     <property name="jdk.debug" value="release"/>
@@ -55,5 +55,5 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="run" classname="com.actitime.timetrack.Demo" time="0.008"/>
+  <testcase name="run" classname="com.actitime.timetrack.Demo" time="0.011"/>
 </testsuite>
