@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-08-10T15:58:35 IST" name="Suite" finished-at="2020-08-10T15:58:35 IST" duration-ms="89">
+  <suite started-at="2020-08-23T13:40:59 IST" name="Suite" finished-at="2020-08-23T13:40:59 IST" duration-ms="53">
     <groups>
     </groups>
-    <test started-at="2020-08-10T15:58:35 IST" name="Test" finished-at="2020-08-10T15:58:35 IST" duration-ms="89">
+    <test started-at="2020-08-23T13:40:59 IST" name="Test" finished-at="2020-08-23T13:40:59 IST" duration-ms="53">
       <class name="com.actitime.timetrack.Demo">
-        <test-method signature="run()[pri:0, instance:com.actitime.timetrack.Demo@49070868]" started-at="2020-08-10T15:58:35 IST" name="run" finished-at="2020-08-10T15:58:35 IST" duration-ms="10" status="PASS">
+        <test-method signature="run()[pri:0, instance:com.actitime.timetrack.Demo@28c4711c]" started-at="2020-08-23T13:40:59 IST" name="run" finished-at="2020-08-23T13:40:59 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- run -->

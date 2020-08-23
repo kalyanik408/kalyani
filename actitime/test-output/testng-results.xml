@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-08-07T20:26:09 IST" name="Default suite" finished-at="2020-08-07T20:26:09 IST" duration-ms="70">
+  <suite started-at="2020-08-10T16:52:25 IST" name="Suite" finished-at="2020-08-10T16:52:26 IST" duration-ms="100">
     <groups>
     </groups>
-    <test started-at="2020-08-07T20:26:09 IST" name="Default test" finished-at="2020-08-07T20:26:09 IST" duration-ms="70">
+    <test started-at="2020-08-10T16:52:25 IST" name="Test" finished-at="2020-08-10T16:52:26 IST" duration-ms="100">
       <class name="com.actitime.timetrack.Demo">
-        <test-method signature="run()[pri:0, instance:com.actitime.timetrack.Demo@5ccddd20]" started-at="2020-08-07T20:26:09 IST" name="run" finished-at="2020-08-07T20:26:09 IST" duration-ms="13" status="PASS">
+        <test-method signature="run()[pri:0, instance:com.actitime.timetrack.Demo@49c386c8]" started-at="2020-08-10T16:52:26 IST" name="run" finished-at="2020-08-10T16:52:26 IST" duration-ms="16" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- run -->
       </class> <!-- com.actitime.timetrack.Demo -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
